@@ -1,0 +1,24 @@
+.pageTitle {
+    background-color: lightblue;
+}
+#desc {
+    background-color: lightcyan;
+}
+#desc2 {
+    color: rgb(171, 154, 0);
+    background-color: rgb(85, 255, 0);
+}
+.ingredients {
+    background-color: lightgreen;
+    color: blue;
+}
+.unordered {
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+.directions {
+    background-color: rgb(99, 193, 76);
+}
+.ordered {
+    background-color: darkorange;
+}
